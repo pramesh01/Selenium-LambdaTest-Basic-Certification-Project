@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="LambdaTestSuite_Certification">
+<listeners>
+<listener class-name="listeners.MyTestListener"/>
+</listeners>
+  <test name="LambdaTest_Selenium_Cetification_Sc1">
+  <classes>
+  <class name="testcases.TestScenarioOne"/>
+  </classes>
+  </test> <!-- Test -->
+  <test name="LambdaTest_Selenium_Cetification_Sc2">
+  <classes>
+  <class name="testcases.TestScenarioTwo"/>
+  </classes>
+  </test> <!-- Test -->
+  <test name="LambdaTest_Selenium_Cetification_sc3">
+  <classes>
+  <class name="testcases.TestScenarioThree"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
