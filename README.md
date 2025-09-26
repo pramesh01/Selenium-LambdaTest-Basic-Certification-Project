@@ -72,16 +72,16 @@ Alternative command to execute tests:
 
 - mvn test -Pcloud
 
-📊 **Reports & Screenshots**
+## 📊 **Reports & Screenshots**
 
-ExtentReports are generated in the Reports/ directory.
-Failed test screenshots are auto-attached in the extent report.
+- ExtentReports are generated in the Reports/ directory.
+- Failed test screenshots are auto-attached in the extent report.
 
-##📜 **Certification**
+## 📜 **Certification**
 
-This framework was submitted to LambdaTest as part of the Basic Level Certification.
-✅ Successfully completed and certified by LambdaTest.
+- This framework was submitted to LambdaTest as part of the Basic Level Certification.
+- ✅ Successfully completed and certified by LambdaTest.
 
-##👨‍💻 **Author**
-Pramesh Kumar
-QA Automation | Selenium | Java | Docker | CI/CD | Cloud Testing
+## 👨‍💻 **Author**
+- Pramesh Kumar
+- QA Automation | Selenium | Java | Docker | CI/CD | Cloud Testing
