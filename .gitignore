@@ -1,1 +1,30 @@
-/target/
+# Maven target folder
+target/
+
+# IDE related
+.settings/
+.classpath
+.project
+.idea/
+
+# Test results and reports
+test-output/
+Reports/
+Screenshots/
+logs/
+ExtentReports/
+result/
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Gitpod / Docker build caches
+.gitpod/
+docker-compose.yml
+
